@@ -1,0 +1,38 @@
+body {
+	background-color:rgb(93%,93%,77%);
+}
+
+div#navegacion {
+	margin : 0;
+	padding : 0;	
+	float : left;
+	width:15%;
+}
+
+div#navegacion  a {
+    display : block;
+}
+
+div#navegacion  a:hover {
+	background-color:rgb(97%,97%,87%);
+}
+
+div#principal {
+	margin : 0 20% 1em 20%;
+	padding : 0;
+}
+
+#principal th {
+  background: rgb(90%,90%,75%); color:black;
+  padding:3px 10px 3px 10px;
+}
+
+#principal td {
+  background: rgb(97%,97%,85%); color:black;
+  padding:3px 10px 3px 10px;
+
+}
+
+.listado td {
+    background-color: antiquewhite;
+}
